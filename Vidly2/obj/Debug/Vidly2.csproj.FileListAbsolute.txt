@@ -119,3 +119,17 @@ C:\Users\datalynx\source\repos\Vidly2\Vidly2\bin\es\Microsoft.AspNet.Identity.En
 C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.csproj.CopyComplete
 C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.dll
 C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.pdb
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.InitialModel.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.csproj.GenerateResource.cache
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddIsSubscribeToCustomer.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddMembershipType.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.PopulateMembershipTypes.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.ApllyAnnotationsToCustomerName.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddNameToMembershipType.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.UpdateMembershipTypeRecords.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddsBirthdayToCustomer.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.RenameCustomerBirthdateProp.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddsNewPropsToMovie.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddsGenreToMovies.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.PopulateGenres.resources
+C:\Users\datalynx\source\repos\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.RenamePropOnMovie.resources
